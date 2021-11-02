@@ -24,6 +24,10 @@ p{
 }
 hr{
   width: auto;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #8493A3;
+  width: 670px;
+  margin-left: 180px;
 }
 header{
   display: flex;
@@ -62,5 +66,8 @@ nav ul li a:hover, nav ul li a:focus{
   padding: 15px;
   background-color: #CDD9E6;
 /*whitish color*/
-
+}
+h1{
+  text-align: center;
+  font-size: 60px;
 }
