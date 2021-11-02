@@ -28,15 +28,16 @@ hr{
 header{
   display: flex;
   padding: 10px;
+  box-shadow: 1px 1px 6px 1px #475B55;
 }
 .ignitionreads{
   margin-left: 10px;
 }
-ul{
+nav ul{
   list-style: none;
   margin-left: 620px;
 }
-li{
+nav ul li{
   display: inline-block;
   padding-top: 30px;
   width: 130px;
@@ -46,4 +47,12 @@ li{
 }
 a{
   text-decoration: none;
+}
+#centrebody{
+  display: block;
+  margin: 12px 270px; 
+  padding: 15px;
+  background-color: #CDD9E6;
+/*whitish color*/
+
 }
