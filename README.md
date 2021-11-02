@@ -28,7 +28,7 @@ And progress is universal; ___everyone___ can make progress toward their goals i
 It turns out I’m not alone either. *We’re wired to seek progress*; psychologists have found it to be a key factor in our overall happiness.   
 > Tony Robbins calls it the “**1-word secret to happiness**,” telling CNBC, "I always tell people if you want to know the secret to happiness, I can give it to you in one word: progress."
 
-![IgnitionReadsTM](.images/IgnitionDesignsTM.png)
+![IgnitionReadsTM](./images/IgnitionDesignsTM.png)
 
 ### LICENSE
 MIT License
