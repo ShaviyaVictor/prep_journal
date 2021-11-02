@@ -33,7 +33,7 @@ It turns out I’m not alone either. *We’re wired to seek progress*; psycholog
 ### LICENSE
 MIT License
 
-Copyright (c) [2021] [VICTOR SHAVIYA]
+Copyright (c) [**2021**] [**VICTOR SHAVIYA**]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
