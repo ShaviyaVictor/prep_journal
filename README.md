@@ -19,3 +19,11 @@ Those keystone habits are:
 * Establishing and tracking too-small-to-fail “micro habits”.   
 * Identifying and tracking your Key Performance Indicators.
 It’s not a huge time commitment or massive lifestyle shift. In fact, updating this journal should take less than 5 minutes a day.
+### Why Progress?
+I’m obsessed with progress.
+
+To me, *progress means forward motion*, or actively taking the steps to **improve each day**. It’s one thing we can control.   
+And progress is universal; ___everyone___ can make progress toward their goals in some meaningful way, however small the steps may seem.
+
+It turns out I’m not alone either. *We’re wired to seek progress*; psychologists have found it to be a key factor in our overall happiness.   
+> Tony Robbins calls it the “**1-word secret to happiness**,” telling CNBC, "I always tell people if you want to know the secret to happiness, I can give it to you in one word: progress."
